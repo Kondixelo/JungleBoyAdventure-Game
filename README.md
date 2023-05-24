@@ -2,4 +2,4 @@
 
 My first ever created game
 
-<a href="https://kondixelo.itch.io/jungle-boy-adventure">Run! Kyle Run!</a>
+<a href="https://kondixelo.itch.io/jungle-boy-adventure">Jungle Boy Adventure</a>
