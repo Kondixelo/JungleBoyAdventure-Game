@@ -16,11 +16,6 @@
 </table>
 
 <h2>PLOT</h2>
-
-<h2>ABOUT</h2>
-<p>A short 2D platform game where I took my first steps in gamedev. While creating the game, I learned how to use the Unity Editor, basic components and issues related to the operation of the Unity engine e.g. Order of execution for event functions.</p>
-
-<h2>PLOT</h2>
 <p>You just need to get out of the jungle.</p>
 
 <h2>CONTROLS</h2>
@@ -34,3 +29,7 @@
     <li>DOWN ARROW - Shoot Down</li>
     <li>TAB - Statistics</li>
 </ul>
+
+<h2>ABOUT</h2>
+<p>A short 2D platform game where I took my first steps in gamedev. While creating the game, I learned how to use the Unity Editor, basic components and issues related to the operation of the Unity engine e.g. Order of execution for event functions.</p>
+
