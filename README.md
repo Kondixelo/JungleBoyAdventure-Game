@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><img src="ss3.PNG" alt="screenshoot3"></td>
-    <td><img src="ss4.png" alt="screenshoot4"></td>
+    <td><img src="ss4.PNG" alt="screenshoot4"></td>
   </tr>
 </tbody>
 </table>
