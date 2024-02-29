@@ -1,4 +1,3 @@
-# JungleBoyAdventure-Game 2D
 <h1><a href="https://koonraddev.itch.io/jungle-boy-adventure">Jungle Boy Adventure</a></h1>
 
 <table>
